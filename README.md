@@ -2,10 +2,6 @@
 
 📦 **Owned by:** [Vu Tri Khoa](https://github.com/khoavutri)(https://gitlab.com/khoavip07)
 
-## 🔧 Node.js Version
-
-![Node Version](https://img.shields.io/badge/node-v16.19.1-green)
-
 ---
 
 ## ✨ Features
@@ -20,7 +16,7 @@
 
 ```bash
 # Clone the repository
-git clone https://gitlab.com/khoavip07/react-base-main.git
+git clone https://github.com/khoavutri/personal-2.git
 
 # Install dependencies
 npm install
