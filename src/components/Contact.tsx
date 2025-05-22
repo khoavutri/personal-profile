@@ -135,7 +135,7 @@ const Contact = () => {
               </h3>
               <div className="flex space-x-4">
                 <a
-                  href="https://web.facebook.com/khoa.dev.vip"
+                  href="https://www.facebook.com/khoa.tri.365.org/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
@@ -158,6 +158,12 @@ const Contact = () => {
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors"
                   aria-label="Twitter"
+                  onClick={(e) => e.preventDefault()}
+                  style={{
+                    pointerEvents: "none",
+                    opacity: 0.5,
+                    cursor: "not-allowed",
+                  }}
                 >
                   <Twitter size={20} />
                 </a>
