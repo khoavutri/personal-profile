@@ -12,6 +12,12 @@
 
 ---
 
+## 🌐 Demo
+
+🖥️ **Live Preview:** [https://personal-profile-six-kappa.vercel.app/](https://personal-profile-six-kappa.vercel.app/)
+
+---
+
 ## 📜 Installation
 
 ```bash
