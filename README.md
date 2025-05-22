@@ -16,7 +16,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/khoavutri/personal-2.git
+git clone https://github.com/khoavutri/personal-profile.git
 
 # Install dependencies
 npm install
